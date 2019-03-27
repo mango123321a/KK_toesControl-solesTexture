@@ -18,3 +18,6 @@ Koikatu/Koikatsu mod
 
 # Finally
 Thanks for the discord servers guys' help.
+specially,
+- [enimaroah](https://github.com/enimaroah)
+- [Bepis](https://github.com/bbepis)
