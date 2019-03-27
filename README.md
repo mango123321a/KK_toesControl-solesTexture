@@ -15,3 +15,6 @@ Koikatu/Koikatsu mod
 [Download](https://github.com/mango123321a/KK_toesControl-solesTexture/releases/download/1.10/toesControl+solesTexture.zip)
 
 **Password:** ZODGAME
+
+# Finally
+Thanks for the discord servers guys' help.
